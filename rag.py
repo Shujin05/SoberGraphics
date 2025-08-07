@@ -54,9 +54,6 @@ def generate_response_with_context(query, retriever, top_k=5):
     return response['choices'][0]['text'].strip()
 
 document_corpus = [
-    "Document 1 content about AI.",
-    "Document 2 content about machine learning.",
-    "Document 3 content about deep learning."
 ]
 
 retriever = SimpleRetriever(document_corpus)
