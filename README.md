@@ -7,7 +7,7 @@ SoberGraphics is an AI-powered website that generates drug prevention educationa
 ## Set Up Instructions 
 1. clone repository
 ```bash
-  git clone
+  git clone https://github.com/Shujin05/SoberGraphics.git
   cd SoberGraphics
 ```
 2. Install Necessary requirements
